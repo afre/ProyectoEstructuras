@@ -1,0 +1,12 @@
+1:demo/Forecasting/esmImg/esm01.gif
+(200,200),(120,0),5
+1:demo/Forecasting/esmImg/esm02.gif
+(120,0),(190,13),0
+0:demo/Forecasting/esmImg/esm03.gif
+(190,13),(190,13),5
+0:demo/Forecasting/esmImg/esm04.gif
+(190,13),(467,223),5
+0:demo/Forecasting/esmImg/esm05.gif
+(467,223),(252,516),5
+0:demo/Forecasting/esmImg/esm06.gif
+(252,516),(252,516),5

@@ -1,0 +1,6 @@
+1 Exponential Smoothing Method
+2 Exponential Smoothing with Trend
+3 Linear Regression Method
+4 Last Value Method
+5 Averaging Method
+6 Moving-Average Method

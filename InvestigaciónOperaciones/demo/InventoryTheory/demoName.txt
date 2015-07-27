@@ -1,0 +1,2 @@
+1 Inventory Theory
+2 EOQ Analysis

@@ -1,0 +1,16 @@
+1:demo/QueueingTheory/queueImg/queue01.gif 
+(200,200),(120,0),5
+1:demo/QueueingTheory/queueImg/queue02.gif 
+(120,0),(149,17),0
+0:demo/QueueingTheory/queueImg/queue03.gif 
+(149,17),(149,17),0
+0:demo/QueueingTheory/queueImg/queue04.gif 
+(149,17),(413,56),5
+0:demo/QueueingTheory/queueImg/queue05.gif 
+(413,56),(413,56),5
+0:demo/QueueingTheory/queueImg/queue06.gif 
+(413,56),(413,56),5
+0:demo/QueueingTheory/queueImg/queue07.gif 
+(413,56),(590,580),5
+0:demo/QueueingTheory/queueImg/queue08.gif 
+(590,580),(590,580),5

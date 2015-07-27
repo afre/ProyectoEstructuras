@@ -1,0 +1,16 @@
+1:demo/Forecasting/estImg/est01.gif
+(200,200),(120,0),5
+1:demo/Forecasting/estImg/est02.gif
+(120,0),(190,13),0
+1:demo/Forecasting/estImg/est03.gif
+(190,13),(190,33),0
+0:demo/Forecasting/estImg/est04.gif
+(190,33),(190,33),5
+0:demo/Forecasting/estImg/est05.gif
+(190,33),(548,473),5
+0:demo/Forecasting/estImg/est05.gif
+(548,473),(548,473),5
+0:demo/Forecasting/estImg/est06.gif
+(548,473),(259,522),5
+0:demo/Forecasting/estImg/est07.gif
+(259,522),(259,522),5

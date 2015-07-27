@@ -1,0 +1,5 @@
+1 Interactive One-Dimensional Search Procedure
+2 Automatic Gradient Search Procedure
+3 Interactive Gradient Search Procedure
+4 Sequential Unconstrained Minimization Technique-SUMT
+5 Interactive Frank-Wolfe Algorithm
